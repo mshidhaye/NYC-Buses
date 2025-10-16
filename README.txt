@@ -1,34 +1,20 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+PROJECT - NYC BUSES
 
+Introduction
+As an Analytics onsultant, explored NYC buses data to determine common delay or breakdown reasons, delay times as per companies as well as explored the correlation between specific days of the week and the frequency of breakdown or delays.
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Business Questions
+What are the common Delay Reasons?
+What are the longest delay times?
+Which products will perform best at the new location(s)?
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Insights
+Majority of the bus breakdowns were due to mechanical problems.
+Regular servicing and maintainence can help save this problem.
+Buses were running late due to heavy traffic during peak times.
+A suggestion would be to pick up scchool students at non peak traffic times.
+COmpanies were sorted according to the highest delay times.
+A decline was found in the breakdowns as the week progressed from Monday towards Fridays.
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Data Source:
+This was a guided project as part of the Data Analyst Bootcamp.
