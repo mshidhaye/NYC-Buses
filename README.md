@@ -21,19 +21,19 @@
   
 
   <h3>Insights</h3>
-  <p><img src="images/Breakdown Reason.png" alt="" width="400" height="200"></p> <p><img src="images/Running Late Reason.png" alt="" width="400" height="200"></p>
+  <p><img src="images/Breakdown Reason.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Running Late Reason.jpeg" alt="" width="400" height="200"></p>
   <h4>Common Delay Reasons<h4>
   <li> Most common reason for breakdown - mechanical problems</li>
   <li> Most common reason for running late - traffic
 
    <br>
-  <p><img src="images/Delay Bus.png" alt="" width="400" height="200"></p> <p><img src="images/Delay Boro.png" alt="" width="400" height="200"></p>
+  <p><img src="images/Delay Bus.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Delay Boro.jpeg" alt="" width="400" height="200"></p>
   Common Delay Times
   <li> Top 10 companies according to the delay times were sorted. Further insight is needed for delay reasons.</li>   
   <li> Delay times were high in the boros especially Manhattan.</li>
 
   <br>
-  <p><img src="images/Running Late Day.png" alt="" width="400" height="200"></p> <p><img src="images/Breakdown Day.png" alt="" width="400" height="200"></p>
+  <p><img src="images/Running Late Day.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Breakdown Day.jpeg" alt="" width="400" height="200"></p>
   Correlation between days of the week and breakdown/delays
  	<li>A decline was found in the breakdowns and delays as the week progressed from Monday towards Fridays.</li>
 								
@@ -52,5 +52,6 @@
 								
 								
 </section>
+
 
 
