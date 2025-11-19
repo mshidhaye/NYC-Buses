@@ -24,7 +24,7 @@
   <p><img src="images/Breakdown Reason.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Running Late Reason.jpeg" alt="" width="400" height="200"></p>
   <h4>Common Delay Reasons<h4>
   <li> Most common reason for breakdown - mechanical problems</li>
-  <li> Most common reason for running late - traffic
+  <li> Most common reason for running late - traffic</li>
 
    <br>
   <p><img src="images/Delay Bus.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Delay Boro.jpeg" alt="" width="400" height="200"></p>
@@ -52,6 +52,7 @@
 								
 								
 </section>
+
 
 
 
