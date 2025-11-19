@@ -28,13 +28,13 @@
 
    <br>
   <p><img src="images/Delay Bus.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Delay Boro.jpeg" alt="" width="400" height="200"></p>
-  Common Delay Times
+  <h4>Common Delay Times</h4>
   <li> Top 10 companies according to the delay times were sorted. Further insight is needed for delay reasons.</li>   
   <li> Delay times were high in the boros especially Manhattan.</li>
 
   <br>
   <p><img src="images/Running Late Day.jpeg" alt="" width="400" height="200"></p> <p><img src="images/Breakdown Day.jpeg" alt="" width="400" height="200"></p>
-  Correlation between days of the week and breakdown/delays
+  <h4>Correlation between days of the week and breakdown/delays</h4>
  	<li>A decline was found in the breakdowns and delays as the week progressed from Monday towards Fridays.</li>
 								
 
@@ -52,6 +52,7 @@
 								
 								
 </section>
+
 
 
 
